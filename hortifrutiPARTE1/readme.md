@@ -1,7 +1,7 @@
 # COMO RODAR O APP 
 
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/hortibom-app.git 
+git clone https://github.com/HBlackzH/Hortibom.git
 cd hortifrutiPARTE1
 
 # 2. Instale as dependências
@@ -19,3 +19,14 @@ cd hortifrutiPARTE1
 npx expo start
 
 
+# Nome dos participantes
+
+Caio henrique lobato de Oliveira
+Pedro lucas cordeiro do nascimento
+Icaro de Souza Silva
+Vitor gones de Alcântara
+Arthur Rubens Tomé de Oliveira
+
+# Video Youtube
+
+https://youtu.be/2cJyn14-Grg
